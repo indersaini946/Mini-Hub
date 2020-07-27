@@ -9,7 +9,7 @@ Python
 Contact me:
 
 Email: sainiinder946@gmail.com
-Discord: TwitchBrutus#5987
+Discord: Username changed and will update on other repositories later
 
 Developed by Inder Saini
 
