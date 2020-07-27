@@ -11,3 +11,5 @@ Contact me:
 Email: sainiinder946@gmail.com
 Discord: TwitchBrutus#5987
 
+Developed by Inder Saini
+
