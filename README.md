@@ -9,7 +9,7 @@ Python
 Contact me:
 
 Email: sainiinder946@gmail.com
-Discord: Username changed and will update on other repositories later
+Discord: NX Brutus#5987
 
 Developed by Inder Saini
 
