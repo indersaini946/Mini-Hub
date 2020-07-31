@@ -1,6 +1,6 @@
 # Mini-Hub
 
-This Mini hub is fully programmed with python and is still to be continued. I will be reuploading it to this repository. 
+This Mini hub is fully programmed with python. It has many projects I have made in the past. 
 
 # Language
 Python
